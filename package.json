@@ -16,7 +16,7 @@
     "watch": "grunt watch"
   },
   "dependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.0.0",
     "backbone": "^1.2.2",
     "backbone-cortex": "git://github.com/relax/backbone-cortex.git",
     "blueimp-md5": "^1.1.1",
